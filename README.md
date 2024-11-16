@@ -1,6 +1,6 @@
 # EXNO9AI
 Logic Programming –  Computer Maintenance Expert System
-### DATE:                                                                            
+### DATE:  23-09-2024                                                                          
 ### REGISTER NUMBER : 212221060180
 ### AIM: 
 Write a Prolog program to build a computer maintenance expert system.
